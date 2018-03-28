@@ -1,2 +1,2 @@
 # hello-world
-Hello lets change the world!
+Lets change the world!
